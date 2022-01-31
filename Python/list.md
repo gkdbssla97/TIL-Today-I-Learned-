@@ -39,7 +39,7 @@ a = [6, 5]
 
 b = [3, 2, 1]
 
-c = ['blockdmask', 'blog'] 
+c = ['hayoon', 'python'] 
 print(a)
  
 a.extend(b)  
