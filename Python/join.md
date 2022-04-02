@@ -1,5 +1,5 @@
 # TIL-Today-I-Learned-
-Python Grammar
+## Python Grammar
 
 <파이썬에서 리스트를 문자열로 일정하게 합쳐주는 join 함수>
 
